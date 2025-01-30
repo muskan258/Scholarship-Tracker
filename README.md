@@ -41,7 +41,6 @@ This Python application automatically fetches scholarship updates for bachelor's
 python scholarship_tracker.py
 ```
 
-The application will run continuously and send updates daily at 9:00 AM.
 
 ## Logging
 
