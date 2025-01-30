@@ -1,0 +1,8 @@
+google-generativeai==0.3.1
+requests==2.31.0
+beautifulsoup4==4.12.2
+schedule==1.2.1
+python-dotenv==1.0.0
+urllib3==2.0.7
+pathlib==1.0.1
+pywin32==306
